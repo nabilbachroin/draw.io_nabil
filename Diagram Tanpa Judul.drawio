@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T16:21:36.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="o1eG2Ww88n1RqUYH_r9l" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T16:23:45.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="Q8JjR_traX6XQzG01S8Y" type="github">
   <diagram id="d91lYLYnUfRvecvY5fYK" name="Halaman-1">
     <mxGraphModel dx="1373" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="gMMENVyPk0METZYD5mTd-1" value="Input" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="50" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gMMENVyPk0METZYD5mTd-2" value="image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="gMMENVyPk0METZYD5mTd-2" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-3" value="json file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="gMMENVyPk0METZYD5mTd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gMMENVyPk0METZYD5mTd-4" target="gMMENVyPk0METZYD5mTd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMMENVyPk0METZYD5mTd-4" value="Tarining" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gMMENVyPk0METZYD5mTd-4" value="Training" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="170" y="50" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-6" value="Output" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="gMMENVyPk0METZYD5mTd-33" value="Volumetric Evaluation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="205" y="357.5" width="150" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="gMMENVyPk0METZYD5mTd-34" value="Grashopper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gMMENVyPk0METZYD5mTd-34" value="Grasshopper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="387.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-35" value="Meshlab" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
