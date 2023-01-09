@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T16:20:13.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="ZygVLlzV0uKa_NPx9cA7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T16:21:36.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="o1eG2Ww88n1RqUYH_r9l" type="github">
   <diagram id="d91lYLYnUfRvecvY5fYK" name="Halaman-1">
     <mxGraphModel dx="1373" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
           <mxGeometry x="170" y="50" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-6" value="Output" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="130" height="120" as="geometry" />
+          <mxGeometry x="320" y="50" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-7" value="ckpt file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="335" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-8" value="config.yml file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="335" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gMMENVyPk0METZYD5mTd-9" target="gMMENVyPk0METZYD5mTd-12">
           <mxGeometry relative="1" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="20" y="200" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-10" value="ckpt file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="225" width="90" height="25" as="geometry" />
+          <mxGeometry x="40" y="228" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-11" value="config.yml file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="40" y="263" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gMMENVyPk0METZYD5mTd-12" target="gMMENVyPk0METZYD5mTd-13">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="170" y="200" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-13" value="Output" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="334" y="220" width="126" height="70" as="geometry" />
+          <mxGeometry x="334" y="220" width="116" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-15" value="Nerfmesh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="70" height="30" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="190" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-17" value="obj file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="355" y="248" width="85" height="30" as="geometry" />
+          <mxGeometry x="349.5" y="250" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-18" value="Nerfmesh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="185" y="225" width="100" height="25" as="geometry" />
+          <mxGeometry x="185" y="229" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gMMENVyPk0METZYD5mTd-31" target="gMMENVyPk0METZYD5mTd-33">
           <mxGeometry relative="1" as="geometry" />
@@ -86,19 +86,19 @@
           <mxGeometry x="220" y="427.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-37" value="Nerfmesh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="55" y="400" width="85" height="30" as="geometry" />
+          <mxGeometry x="57.5" y="400" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-38" value="Nerfstudio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="55" y="440" width="85" height="30" as="geometry" />
+          <mxGeometry x="57.5" y="437.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-39" value="Output value" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-40" value="Volume value approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="395" y="377.5" width="105" height="42.5" as="geometry" />
+          <mxGeometry x="397.5" y="381.25" width="105" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-41" value="Bounding box" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="395" y="432.5" width="105" height="35" as="geometry" />
+          <mxGeometry x="397.5" y="432.5" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gMMENVyPk0METZYD5mTd-44" value="Nerfstudio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="185" y="265" width="100" height="25" as="geometry" />
